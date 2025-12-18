@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class handshakeCounter {
+public class HandshakeCounter {
     public static void main(String[] args) {
 
         

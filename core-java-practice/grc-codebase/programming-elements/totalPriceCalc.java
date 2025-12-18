@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class totalPriceCalculator {
+public class TotalPriceCalculator {
     public static void main(String[] args) {
 
         

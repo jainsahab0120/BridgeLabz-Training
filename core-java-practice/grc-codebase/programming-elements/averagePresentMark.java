@@ -1,4 +1,4 @@
-public class averagePresentMark {
+public class AveragePresentMark {
     public static void main(String[] args) {
 
         int marksMathmein = 94;

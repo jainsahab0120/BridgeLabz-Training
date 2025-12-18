@@ -1,4 +1,4 @@
-public class kmConvertor {
+public class KmConvertor {
     public static void main(String[] args) {
 
         double kilometers = 10.8 ;

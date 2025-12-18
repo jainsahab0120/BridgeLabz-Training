@@ -1,4 +1,4 @@
-public class profitAndLoss {
+public class ProfitAndLoss {
     public static void main(String[] args) {
 
         double costPrice = 129.0;
