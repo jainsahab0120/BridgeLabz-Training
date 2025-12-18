@@ -8,11 +8,12 @@ public class IntOperation {
         int b = sc.nextInt();
         int c = sc.nextInt();
 
-        int res1 = a + b * c;
-        int res2 = a * b + c;
-        int res3 = c + a / b;
-        int res4 = a % b + c;
+        int r1 = a + b * c;
+        int r2 = a * b + c;
+        int r3 = c + a / b;
+        int r4 = a % b + c;
 
-        System.out.println("The results of Int Operations are " + res1 + ", " + res2 + ", " + res3 + ", and " + res4);
+        System.out.println("The results of Int Operations are " + r1 + ", " + r2 + ", " + r3 + ", and " + r4);
     }
 }
+
