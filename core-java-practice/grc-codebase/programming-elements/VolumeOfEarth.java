@@ -6,7 +6,5 @@ public class VolumeOfEarth {
 
         System.out.println("The volume of the Earth in cubic Km is : " + volume );
         System.out.println("The volume of the Earth in cubic miles is : " + volume * 1.6*1.6*1.6);
-
-
     }
 }
