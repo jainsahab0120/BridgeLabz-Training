@@ -9,7 +9,5 @@ public class UniversityFees {
 
         System.out.println("the Discount amount in INR is " + discountAmount + "and Final Discount fees in INR " + totalFeesAfterDiscount);
 
-       
-
     }
 }
