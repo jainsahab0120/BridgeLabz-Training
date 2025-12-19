@@ -5,19 +5,14 @@ public class TotalPriceCalculator {
 
         
         Scanner sc = new Scanner(System.in);
-
-        // Item ka unit price input lena
         System.out.print("Enter unit price of the item: ");
         double unitPrice = sc.nextDouble();
 
-        // Quantity input lena
         System.out.print("Enter quantity to be bought: ");
         int quantity = sc.nextInt();
 
-        // Total price calculate kar rahe hain
         double totalPrice = unitPrice * quantity;
-
-       
+ 
         System.out.println(
             "The total purchase price is INR " + totalPrice +
             " if the quantity " + quantity +
