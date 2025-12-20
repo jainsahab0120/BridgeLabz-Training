@@ -18,7 +18,6 @@ BridgeLabz-Training
 
 ## Tools Used
 * Eclipse IDE
-* Visual Studio
 
 ## Daily Progress Log
 * 16-Jan-2025 (Tuesday) : Installed eclipse and structure the repository.
