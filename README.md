@@ -7,10 +7,10 @@ BridgeLabz-Training
 ├── core-java-practice
 │   │
 │   ├── gcr-codebase
-│   │   ├── programming-elements
+│   │   ├── arrays
 │   │   ├── control-flow
-│   │   └── arrays
-│   │
+│   │   └── programming-elements
+│   │   └── strings
 │   ├── scenario-based
 │   │
 │   └── leet-code-codebase
