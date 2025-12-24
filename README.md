@@ -9,8 +9,9 @@ BridgeLabz-Training
 │   ├── gcr-codebase
 │   │   ├── arrays
 │   │   ├── control-flow
-│   │   └── programming-elements
+│   │   ├── programming-elements
 │   │   └── strings
+|   |
 │   ├── scenario-based
 │   │
 │   └── leet-code-codebase
@@ -27,4 +28,7 @@ BridgeLabz-Training
     link: https://github.com/jainsahab0120/BridgeLabz-Training/tree/core-java-practice/core-java-practice/grc-codebase/programming-elements  
 * 19-Dec-2025 (Friday) : Solved second assignment of java control flow.  
     link: https://github.com/jainsahab0120/BridgeLabz-Training/tree/core-java-practice/core-java-practice/grc-codebase/control-flow  
+* 22-Dec-2025 (Monday) : Solved some problems of assignment 3 of java strings.  
+* 23-Dec-2025 (Tuesday) : Solved assignment 3 completely.  
+    link: https://github.com/jainsahab0120/BridgeLabz-Training/tree/core-java-practice/core-java-practice/grc-codebase/strings
   
