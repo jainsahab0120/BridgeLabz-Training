@@ -2,7 +2,6 @@ import java.time.*;
 import java.util.*;
 
 public class TimeZonesDisplay {
-
     public static void main(String[] args) {
         ZonedDateTime gmtTime = ZonedDateTime.now(ZoneId.of("GMT"));
         ZonedDateTime istTime = ZonedDateTime.now(ZoneId.of("Asia/Kolkata"));
@@ -13,3 +12,4 @@ public class TimeZonesDisplay {
         System.out.println("PST Time: " + pstTime);
     }
 }
+
