@@ -1,7 +1,6 @@
 import java.util.*;
 
 public class MaximumOfThree {
-
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
@@ -26,3 +25,4 @@ public class MaximumOfThree {
         return max;
     }
 }
+
