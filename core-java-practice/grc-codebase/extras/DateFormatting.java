@@ -2,7 +2,6 @@ import java.time.*;
 import java.time.format.*;
 
 public class DateFormatting {
-
     public static void main(String[] args) {
         LocalDate today = LocalDate.now();
 
@@ -15,3 +14,4 @@ public class DateFormatting {
         System.out.println(today.format(thirdFormat));
     }
 }
+
