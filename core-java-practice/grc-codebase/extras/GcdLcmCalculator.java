@@ -1,7 +1,6 @@
 import java.util.*;
 
 public class GcdLcmCalculator {
-
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int firstNumber = input.nextInt();
@@ -27,3 +26,4 @@ public class GcdLcmCalculator {
         return (a * b) / gcd;
     }
 }
+
