@@ -1,7 +1,6 @@
 import java.util.*;
 
 public class BasicCalculator {
-
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         double first = input.nextDouble();
@@ -35,3 +34,4 @@ public class BasicCalculator {
         return a / b;
     }
 }
+
