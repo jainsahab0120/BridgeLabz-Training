@@ -1,7 +1,6 @@
 import java.util.*;
 
 public class PalindromeChecker {
-
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         String text = input.nextLine();
@@ -27,3 +26,4 @@ public class PalindromeChecker {
         System.out.println(status);
     }
 }
+
