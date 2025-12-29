@@ -1,7 +1,6 @@
 import java.util.*;
 
 public class PrimeNumberChecker {
-
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int number = input.nextInt();
@@ -23,3 +22,4 @@ public class PrimeNumberChecker {
         return true;
     }
 }
+
