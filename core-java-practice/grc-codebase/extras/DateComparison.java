@@ -2,7 +2,6 @@ import java.time.*;
 import java.util.*;
 
 public class DateComparison {
-
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
@@ -18,3 +17,4 @@ public class DateComparison {
         }
     }
 }
+
