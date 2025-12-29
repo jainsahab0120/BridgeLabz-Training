@@ -1,7 +1,6 @@
 import java.util.*;
 
 public class FibonacciGenerator {
-
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int terms = input.nextInt();
@@ -20,3 +19,4 @@ public class FibonacciGenerator {
         }
     }
 }
+
