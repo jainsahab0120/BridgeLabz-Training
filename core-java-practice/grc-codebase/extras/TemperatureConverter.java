@@ -1,7 +1,6 @@
 import java.util.*;
 
 public class TemperatureConverter {
-
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         double value = input.nextDouble();
@@ -22,3 +21,4 @@ public class TemperatureConverter {
         return (fahrenheit - 32) * 5 / 9;
     }
 }
+
