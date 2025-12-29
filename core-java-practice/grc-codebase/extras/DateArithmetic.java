@@ -2,7 +2,6 @@ import java.time.*;
 import java.util.*;
 
 public class DateArithmetic {
-
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         LocalDate inputDate = LocalDate.parse(input.next());
@@ -16,3 +15,4 @@ public class DateArithmetic {
         System.out.println(resultDate);
     }
 }
+
