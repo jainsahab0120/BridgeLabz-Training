@@ -1,7 +1,6 @@
 import java.util.*;
 
 public class NumberGuessingGame {
-
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int low = 1;
@@ -32,3 +31,4 @@ public class NumberGuessingGame {
         return input.next();
     }
 }
+
