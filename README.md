@@ -56,10 +56,11 @@ BridgeLabz-Training
 │   └── code-reviews & feedback    → Mentor reviews and improvements  
 │  
 └── README.md
-
+```
 
 ## Tools Used
 * Eclipse IDE
+* VS Code
 
 
 ## Daily Progress Log
@@ -67,7 +68,7 @@ BridgeLabz-Training
 
 ---
 ### 🗓️ 17-Dec-2025 (Wednesday)  : Solved some basic leetcode problems.  
-🔗  https://github.com/jainsahab0120/BridgeLabz-Training/tree/core-java-practice/core-java-practice/leet-code-codebase  
+🔗 https://github.com/jainsahab0120/BridgeLabz-Training/tree/core-java-practice/core-java-practice/leet-code-codebase  
 - Installed and configured Java & IntelliJ/Eclipse
 - Initialized GitHub repository and project structure
 - Created `core-java-practice` branch
