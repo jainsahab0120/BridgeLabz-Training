@@ -267,7 +267,10 @@ BridgeLabz-Training
 ---
 ### 🗓️ 15-Jan-2026 (Thursday)
 
-
+- Worked on implementing and practicing sorting algorithms
+- Attended the weekly meeting with Ma’am; had a one-on-one interactive discussion covering OOPs concepts, 
+  Core Java, this keyword, and @Override annotation
+  
 ---
 
 
