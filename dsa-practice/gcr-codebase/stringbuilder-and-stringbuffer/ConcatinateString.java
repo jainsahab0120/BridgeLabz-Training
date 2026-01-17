@@ -2,7 +2,7 @@
 public class ConcatinateString {
 
     public static void main(String[] args) {
-        String[] stringArr = {"Java", " ", "is", " ", "powerful"};
+        String[] stringArr = {"Java", " ", "is", " ", "powerful" "language"};
         String ans = ConcatinateStringUsingStringBuffer(stringArr);
         System.out.println(ans);
     }

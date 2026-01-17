@@ -2,7 +2,7 @@ public class FirstNegNumber {
 
     public static void main(String[] args) {
 
-        int[] nums = {4, 7, 10, -3, 8, -1};
+        int[] nums = {1, 4, 7, 10, -3, 8, -1};
 
         int ans = linearSearch(nums);
 

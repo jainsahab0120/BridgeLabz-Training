@@ -8,10 +8,10 @@ public class ReadFileLineByLine {
 
         String filePath = "sample.txt"; // path to your text file
 
-        try (BufferedReader reader = new BufferedReader(new FileReader(filePath))) {
+        try (BufferedReader rd = new BufferedReader(new FileReader(filePath))) {
 
             String line;
-            while ((line = reader.readLine()) != null) {
+            while ((line = rd.readLine()) != null) {
                 System.out.println(line);
             }
 
