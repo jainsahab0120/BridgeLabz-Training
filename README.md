@@ -272,12 +272,22 @@ BridgeLabz-Training
   Core Java, this keyword, and @Override annotation
   
 ---
-### 🗓️ 16-Jan-2026 (Wednesday)
+### 🗓️ 16-Jan-2026 (Friday)
 - Participated in Q&A discussions during the BridgeLabz class
 - Learned new sorting algorithms: Heap Sort and Counting Sort
 - Understood their working principles, time complexity, and optimized implementations
 
 ---
+### 🗓️ 17-Jan-2026 (Saturday)
+🔗 https://github.com/jainsahab0120/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase
+
+-  Revised Linear Search and Binary Search concepts
+- Used InputStreamReader for the first time and practiced BufferedReader
+- Worked with StringBuffer (StringBuilder already familiar)
+- Reviewed FileReader (will be used in detail later)
+- Completed assignment based on these topics
+
+--- 
 
 
 ## 🔗 Branch Overview
