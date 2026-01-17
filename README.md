@@ -272,6 +272,12 @@ BridgeLabz-Training
   Core Java, this keyword, and @Override annotation
   
 ---
+### 🗓️ 16-Jan-2026 (Wednesday)
+- Participated in Q&A discussions during the BridgeLabz class
+- Learned new sorting algorithms: Heap Sort and Counting Sort
+- Understood their working principles, time complexity, and optimized implementations
+
+---
 
 
 ## 🔗 Branch Overview
