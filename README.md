@@ -289,6 +289,26 @@ BridgeLabz-Training
 
 --- 
 
+### 🗓️ 19-Jan-2026 (Monday)
+- Revised previously solved questions  
+- Practiced a few **LeetCode** problems  
+- Completed **Address Book** use cases **1–4**
+
+---
+
+### 🗓️ 20-Jan-2026 (Tuesday)
+🔗 https://github.com/jainsahab0120/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/best-practice  
+- Studied and implemented **General Algorithm Best Practices**  
+- Applied **Time and Space Complexity Optimization** techniques  
+
+---
+
+### 🗓️ 21-Jan-2026 (Wednesday)
+🔗 https://github.com/jainsahab0120/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/generics  
+- Solved **Generics**-based questions  
+- Revised core **OOPs** concepts  
+
+---
 
 ## 🔗 Branch Overview
 
